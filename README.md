@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Suraj3547/75DaysLeetCodeChallenge/tree/master/0008-string-to-integer-atoi) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Suraj3547/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
 |  |
